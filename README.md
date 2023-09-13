@@ -15,6 +15,7 @@ In the project directory, you can run:
 ![](src/screenshot/SCR-20230913-p6i.png)
 
 ### Links
+If you want to see the final product, in the project directory, you can run:
 - [Live 🔗] https://yamilcard.netlify.app/
 
 ### Built with
