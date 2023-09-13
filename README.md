@@ -41,4 +41,3 @@ If you want to see the final product, in the project directory, you can run:
 
 - [Scrimba](https://scrimba.com)
 
-## Learn More
