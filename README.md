@@ -7,6 +7,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ## Overview
+- Requirements
+- Build from scratch!
+- Fill in your own information
+- Separate components for:
+    - Header (photo, name, buttons, etc.)
+    - Article (About - Interests)
+    - Footer (social icons)
 
 ### Screenshot
 
