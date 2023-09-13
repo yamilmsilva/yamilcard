@@ -54,6 +54,13 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 - React.JS
 - Flexbox
 
+## Author
+- Yamil Silva
+
+- ### Acknowledgements
+
+- [Scrimba](https://scrimba.com)
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
