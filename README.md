@@ -25,6 +25,8 @@ In the project directory, you can run:
 If you want to see the final product, in the project directory, you can run:
 - [Live 🔗] https://yamilcard.netlify.app/
 
+## My process
+
 ### Built with
 - Semantic HTML5 markup
 - CSS custom properties
