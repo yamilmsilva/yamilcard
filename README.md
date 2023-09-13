@@ -1,6 +1,5 @@
 # Digital Business Card
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -24,6 +23,10 @@ In the project directory, you can run:
 ### Links
 If you want to see the final product, in the project directory, you can run:
 - [Live 🔗] https://yamilcard.netlify.app/
+
+### Getting Started with Create React App
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## My process
 
